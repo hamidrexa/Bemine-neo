@@ -1,0 +1,208 @@
+Added Component: Designator=C1(0603R-1k)
+Added Component: Designator=C2(0603R-1k)
+Added Component: Designator=C3(0603R-1k)
+Added Component: Designator=C4(0603R-1k)
+Added Component: Designator=C5(0603R-1k)
+Added Component: Designator=C6(0603R-1k)
+Added Component: Designator=C7(CAPR5-4X5)
+Added Component: Designator=C8(CAPR5-4X5)
+Added Component: Designator=C9(0603R-1k)
+Added Component: Designator=C10(CAPCP6032X280N)
+Added Component: Designator=C11(CAPR5-4X5)
+Added Component: Designator=C12(CAPR5-4X5)
+Added Component: Designator=C13(0603R-1k)
+Added Component: Designator=C14(0603R-1k)
+Added Component: Designator=D1(SMB)
+Added Component: Designator=D2(C1206)
+Added Component: Designator=GD1(SC70-6)
+Added Component: Designator=J2(SIM8050-6-0-14-00-X_revF)
+Added Component: Designator=J2(MOLEX_1661)
+Added Component: Designator=L1(CAPR5-4X5)
+Added Component: Designator=P1(HDR1X5)
+Added Component: Designator=PP1(phoenix-2pin-200mil)
+Added Component: Designator=R1(0603R-1k)
+Added Component: Designator=R2(0603R-1k)
+Added Component: Designator=R3(0603R-1k)
+Added Component: Designator=R4(0603R-1k)
+Added Component: Designator=R5(0603R-1k)
+Added Component: Designator=R6(0603R-1k)
+Added Component: Designator=R7(0603R-1k)
+Added Component: Designator=R8(0603R-1k)
+Added Component: Designator=R9(C1206)
+Added Component: Designator=R10(C1206)
+Added Component: Designator=U2(LCC110P1570X1760X250-42N)
+Added Component: Designator=U3(NEO7-module)
+Added Component: Designator=U4(SOT23)
+Added Component: Designator=U5(TS5B_N)
+Added Component: Designator=U6(SOT89N)
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=VBAT Pin=C6-2
+Added Pin To Net: NetName=VBAT Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=VBAT Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=VBAT Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=VBAT Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=VBAT Pin=D2-1
+Added Pin To Net: NetName=NetC4_1 Pin=GD1-1
+Added Pin To Net: NetName=GND Pin=GD1-2
+Added Pin To Net: NetName=NetC3_1 Pin=GD1-3
+Added Pin To Net: NetName=NetC2_1 Pin=GD1-4
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=NetC4_1 Pin=J2-C2
+Added Pin To Net: NetName=NetC2_1 Pin=J2-C3
+Added Pin To Net: NetName=GND Pin=J2-C5
+Added Pin To Net: NetName=NetC3_1 Pin=J2-C7
+Added Pin To Net: NetName=VBAT Pin=L1-2
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=PP1-2
+Added Pin To Net: NetName=NetC4_1 Pin=R1-1
+Added Pin To Net: NetName=NetC3_1 Pin=R2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R3-1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=VBAT Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=NetR5_2 Pin=U2-1
+Added Pin To Net: NetName=NetR4_1 Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=GND Pin=U2-13
+Added Pin To Net: NetName=GND Pin=U2-19
+Added Pin To Net: NetName=GND Pin=U2-21
+Added Pin To Net: NetName=GND Pin=U2-27
+Added Pin To Net: NetName=GND Pin=U2-30
+Added Pin To Net: NetName=GND Pin=U2-31
+Added Pin To Net: NetName=NetJ2_1 Pin=U2-32
+Added Pin To Net: NetName=GND Pin=U2-33
+Added Pin To Net: NetName=VBAT Pin=U2-34
+Added Pin To Net: NetName=VBAT Pin=U2-35
+Added Pin To Net: NetName=GND Pin=U2-36
+Added Pin To Net: NetName=GND Pin=U2-37
+Added Pin To Net: NetName=NetU2_41 Pin=U2-41
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=NetU2_41 Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=GND Pin=U5-5
+Added Pin To Net: NetName=GND Pin=U5-6
+Added Pin To Net: NetName=GND Pin=U6-1
+Added Pin To Net: NetName=VBAT Pin=U6-2
+Added Pin To Net: NetName=VBAT Pin=U6-2
+Added Net: Name=INT
+Added Net: Name=MISO
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=R9-2
+Added Pin To Net: NetName=NetC6_1 Pin=R10-2
+Added Pin To Net: NetName=NetC6_1 Pin=U5-4
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=L1-1
+Added Pin To Net: NetName=NetD1_2 Pin=U5-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=U4-3
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NRST Pin=C5-1
+Added Pin To Net: NetName=NRST Pin=P1-5
+Added Pin To Net: NetName=NRST Pin=R8-2
+Added Net: Name=NRST
+Added Pin To Net: NetName=PWRKEY Pin=U2-39
+Added Net: Name=PWRKEY
+Added Pin To Net: NetName=RX_REMAP Pin=U3-3
+Added Net: Name=RX_REMAP
+Added Pin To Net: NetName=RX Pin=R5-1
+Added Pin To Net: NetName=RX Pin=R7-1
+Added Net: Name=RX
+Added Net: Name=SCK
+Added Pin To Net: NetName=SIM_CLK Pin=R3-2
+Added Pin To Net: NetName=SIM_CLK Pin=U2-16
+Added Net: Name=SIM_CLK
+Added Pin To Net: NetName=SIM_DATA Pin=R2-2
+Added Pin To Net: NetName=SIM_DATA Pin=U2-15
+Added Net: Name=SIM_DATA
+Added Pin To Net: NetName=SIM_RST Pin=R1-2
+Added Pin To Net: NetName=SIM_RST Pin=U2-17
+Added Net: Name=SIM_RST
+Added Pin To Net: NetName=SIM_VDD Pin=C1-1
+Added Pin To Net: NetName=SIM_VDD Pin=GD1-6
+Added Pin To Net: NetName=SIM_VDD Pin=J2-C1
+Added Pin To Net: NetName=SIM_VDD Pin=U2-18
+Added Net: Name=SIM_VDD
+Added Pin To Net: NetName=SWCLK Pin=P1-4
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=P1-3
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=TX_REMAP Pin=U3-2
+Added Net: Name=TX_REMAP
+Added Pin To Net: NetName=TX Pin=R4-2
+Added Pin To Net: NetName=TX Pin=R6-1
+Added Net: Name=TX
+Added Pin To Net: NetName=V3.3 Pin=C12-1
+Added Pin To Net: NetName=V3.3 Pin=C14-1
+Added Pin To Net: NetName=V3.3 Pin=P1-1
+Added Pin To Net: NetName=V3.3 Pin=R8-1
+Added Pin To Net: NetName=V3.3 Pin=U3-1
+Added Pin To Net: NetName=V3.3 Pin=U6-3
+Added Net: Name=V3.3
+Added Pin To Net: NetName=V12 Pin=C8-1
+Added Pin To Net: NetName=V12 Pin=C9-1
+Added Pin To Net: NetName=V12 Pin=PP1-1
+Added Pin To Net: NetName=V12 Pin=U5-1
+Added Net: Name=V12
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component C1 100nF
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component C2 33pF
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component C3 33pF
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component C4 33pF
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component C5 100nF
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component C6 15nF
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component C7 470 ?F; 25 V
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component C8 1000uF 16V
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component C9 100nF
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component C10 10uF; 25V
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component C11 10 ?F; 16V
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component C12 4.7 ?F; 16V
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component C13 100nF
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component C14 100nF
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component D1 SM5822
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component D2 LED2
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component GD1 SMF05C.TCT
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component J2 SIM8050-6-0-14-00-X_revF
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component L1 68uH 3.1A (47 33)
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component P1 Programmer
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component PP1 12v_Power
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component R1 51
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component R2 51
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component R3 51
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component R4 1K
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component R5 1K
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component R6 5.6K
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component R7 5.6K
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component R8 10K
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component R9 4.7k; 1%
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component R10 1k; 1%
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component U2 SIM800C
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component U3 NEO7-module
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component U4 N-channel MOSFET
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component U5 LM2596S-ADJ
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component U6 AIC1734-33XA
+Added Room: Name=Bemine-neo_SCH

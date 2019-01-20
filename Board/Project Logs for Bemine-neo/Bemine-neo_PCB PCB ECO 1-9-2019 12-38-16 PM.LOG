@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=C? Old DesignItemId=94SL156X0025EBP New DesignItemId=94SS477X0004FBP
+Change Component Footprint: Designator=C? Old Footprint=E' New Footprint=F
+Change Component Comment : Designator=C? Old Comment=94SL156X0025EBP New Comment=94SS477X0004FBP
+Added Room: Name=Bemine-neo_SCH

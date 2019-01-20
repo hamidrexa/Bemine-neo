@@ -1,0 +1,26 @@
+Added Component: Designator=U1(mpu9250-module)
+Added Component: Designator=U4(STM-TSSOP20_N)
+Added Pin To Net: NetName=V3.3 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=SCK Pin=U1-3
+Added Pin To Net: NetName=MOSI Pin=U1-4
+Added Pin To Net: NetName=MISO Pin=U1-7
+Added Pin To Net: NetName=INT Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=GND Pin=U1-10
+Added Pin To Net: NetName=NRST Pin=U4-4
+Added Pin To Net: NetName=INT Pin=U4-6
+Added Pin To Net: NetName=TX Pin=U4-8
+Added Pin To Net: NetName=RX Pin=U4-9
+Added Pin To Net: NetName=PWRKEY Pin=U4-10
+Added Pin To Net: NetName=SCK Pin=U4-11
+Added Pin To Net: NetName=MISO Pin=U4-12
+Added Pin To Net: NetName=MOSI Pin=U4-13
+Added Pin To Net: NetName=GND Pin=U4-15
+Added Pin To Net: NetName=V3.3 Pin=U4-16
+Added Pin To Net: NetName=TX_REMAP Pin=U4-17
+Added Pin To Net: NetName=RX_REMAP Pin=U4-18
+Added Pin To Net: NetName=SWDIO Pin=U4-19
+Added Pin To Net: NetName=SWCLK Pin=U4-20
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component U1 mpu9250-module
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component U4 STM32F030F4P6

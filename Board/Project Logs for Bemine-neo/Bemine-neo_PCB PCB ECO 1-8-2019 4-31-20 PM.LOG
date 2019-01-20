@@ -1,0 +1,5 @@
+Added Component: Designator=U1(mpu9250-module)
+Added Component: Designator=U3(NEO7-module)
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component U1 mpu9250-module
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component U3 NEO7-module
+Added Room: Name=Bemine-neo_SCH
