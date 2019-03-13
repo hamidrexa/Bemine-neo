@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\Morteza\Dropbox\github\Bemine-neo\Board\Bemine-neo_PCB.PcbDoc
+Date         : 1/12/2019
+Time         : 1:00:45 PM
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 111
+    Connections routed, 111
+    Connections remaining, 0
+count : 4

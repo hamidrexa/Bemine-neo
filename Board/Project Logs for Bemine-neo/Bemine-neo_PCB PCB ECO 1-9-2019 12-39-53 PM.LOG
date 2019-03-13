@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=C8 Old DesignItemId=Cap Pol1 New DesignItemId=94SS477X0004FBP
+Change Component DesignItemId : Designator=C7 Old DesignItemId=WCAP-PSLC 10x12.4x4.5 875075361006 New DesignItemId=94SH107X0016EBP
+Change Component Footprint: Designator=C7 Old Footprint=CAPR5-4X5 New Footprint=E
+Change Component Footprint: Designator=C8 Old Footprint=CAPR5-4X5 New Footprint=F

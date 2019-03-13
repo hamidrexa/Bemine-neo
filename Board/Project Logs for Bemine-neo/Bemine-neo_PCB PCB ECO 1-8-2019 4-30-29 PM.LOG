@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=BT1-2
+Removed Pin From Net: NetName=NetGC4_1 Pin=GJ1-C1
+Removed Pin From Net: NetName=NetGC3_2 Pin=GJ1-C2
+Removed Pin From Net: NetName=NetGC1_2 Pin=GJ1-C3
+Removed Pin From Net: NetName=GND Pin=GJ1-C5
+Removed Pin From Net: NetName=NetGC2_2 Pin=GJ1-C7
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J1-4
+Removed Pin From Net: NetName=GND Pin=P1-1
+Removed Member From Class: ClassName=Bemine-neo_SCH Member=BD2
+Removed Member From Class: ClassName=Bemine-neo_SCH Member=BT1
+Removed Member From Class: ClassName=Bemine-neo_SCH Member=GJ1
+Removed Member From Class: ClassName=Bemine-neo_SCH Member=J1
+Removed Member From Class: ClassName=Bemine-neo_SCH Member=P1
+Added Component: Designator=J2(SIM8050-6-0-14-00-X_revF)
+Added Pin To Net: NetName=NetGC4_1 Pin=J2-C1
+Added Pin To Net: NetName=NetGC3_2 Pin=J2-C2
+Added Pin To Net: NetName=NetGC1_2 Pin=J2-C3
+Added Pin To Net: NetName=GND Pin=J2-C5
+Added Pin To Net: NetName=NetGC2_2 Pin=J2-C7
+Added Room: Name=Bemine-neo_SCH

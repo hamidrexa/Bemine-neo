@@ -1,0 +1,7 @@
+Added Component: Designator=C11(0603R-1k)
+Added Pin To Net: NetName=V3.3 Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component C11 100nF
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component D1 SM5822
+Added Member To Class: ClassName=Bemine-neo_SCH Member=Component P1 12v_Power
+Added Room: Name=Bemine-neo_SCH

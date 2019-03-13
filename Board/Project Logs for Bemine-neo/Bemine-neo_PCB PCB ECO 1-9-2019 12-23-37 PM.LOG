@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=R10-1
+Removed Pin From Net: NetName=NetC6_1 Pin=R10-2
+Change Component DesignItemId : Designator=R9 Old DesignItemId=Res1 New DesignItemId=Resistor
+Change Component DesignItemId : Designator=R10 Old DesignItemId=Res1 New DesignItemId=Resistor
+Change Component Footprint: Designator=R9 Old Footprint=C1206 New Footprint=0603R-1k
+Change Component Footprint: Designator=R10 Old Footprint=C1206 New Footprint=0603R-1k
+Added Pin To Net: NetName=NetC6_1 Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Room: Name=Bemine-neo_SCH
